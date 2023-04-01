@@ -10,7 +10,7 @@ const routes = [
         method: 'GET',
         path: '/',
         handler: (request, h) => {
-            return 'Homepage Number Setelah Pull';
+            return 'Homepage Number Setelah Pull Zaki';
         },
     },
 ];
